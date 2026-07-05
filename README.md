@@ -1,4 +1,4 @@
-# odin-recipes
+# Recipes
 
 This project showcases the HTML skill I've learned through The Odin Project.
 
